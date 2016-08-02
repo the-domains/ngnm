@@ -1,0 +1,14 @@
+layout_spectrum: 0.9464845922775567
+typography_spectrum: 0.13445793837308884
+color:
+  brandStrength: 0.3071774516720325
+  lightness: 0.3965200565289706
+  saturation: 0.24802130833268166
+  rhythmicContrast: 0.8440133591648191
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: NGNM
