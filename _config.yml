@@ -1,16 +1,16 @@
-typography_spectrum: 0.13445793837308884
+typography_spectrum: 0.3159167517442256
 color:
-  brandStrength: 0.3071774516720325
-  lightness: 0.3965200565289706
-  saturation: 0.24802130833268166
-  rhythmicContrast: 0.8440133591648191
+  brandStrength: 0.8390758638270199
+  lightness: 0.43880621856078506
+  saturation: 0.7406953717581928
+  rhythmicContrast: 0.7999796094372869
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.9464845922775567
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.4114901991561055
 author:
   name: NGNM
   email: thegrid@ngnm.us
