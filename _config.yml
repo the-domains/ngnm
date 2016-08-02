@@ -1,4 +1,3 @@
-layout_spectrum: 0.9464845922775567
 typography_spectrum: 0.13445793837308884
 color:
   brandStrength: 0.3071774516720325
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.9464845922775567
 name: NGNM
 title: NGNM
+description: no gods.  no masters.
