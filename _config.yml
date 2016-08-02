@@ -11,6 +11,10 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.9464845922775567
+author:
+  name: NGNM
+  email: thegrid@ngnm.us
+  url: 'http://ngnm.us/'
 name: NGNM
 title: no gods. no masters.
 description: ''
