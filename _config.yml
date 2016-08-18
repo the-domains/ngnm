@@ -1,16 +1,16 @@
-typography_spectrum: 0.13445793837308884
+typography_spectrum: 0.9824558719992638
 color:
-  brandStrength: 0.3071774516720325
-  lightness: 0.3965200565289706
-  saturation: 0.24802130833268166
-  rhythmicContrast: 0.8440133591648191
+  brandStrength: 0.7866416070610285
+  lightness: 0.31651012576185167
+  saturation: 0.6718052665237337
+  rhythmicContrast: 0.6177392958197743
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.9464845922775567
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.42904956289567053
 author:
   name: NGNM
   email: thegrid@ngnm.us
@@ -18,6 +18,5 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/af117fe6-c014-46bf-951b-9a469ca2b3a9.jpg
 name: NGNM
-navigation: []
 title: NGNM
 description: no gods. no masters.
